@@ -1,0 +1,30 @@
+2020-07-28 22:07:520 INFO  logs:52 - Scenario started.
+2020-07-28 22:07:191 INFO  logs:33 - Chrome browser started.
+2020-07-28 22:07:877 INFO  logs:75 - gillette india website got launched.
+2020-07-28 22:07:436 INFO  logs:77 - Register button is clicked.
+2020-07-28 22:07:503 INFO  logs:80 - First name and last name are entered.
+2020-07-28 22:07:599 INFO  logs:87 - Email address is entered.
+2020-07-28 22:07:249 INFO  logs:101 - Entered password and DOB and submitted.
+2020-07-28 22:07:352 INFO  logs:108 - Email address is entered.
+2020-07-28 22:07:432 INFO  logs:110 - Password is entered.
+2020-07-28 22:07:368 INFO  logs:112 - Sign in is clicked.
+2020-07-28 22:07:209 INFO  logs:117 - Log out is done.
+2020-07-28 22:07:738 INFO  logs:126 - Forgot password scenario.
+2020-07-28 22:07:884 INFO  logs:134 - Verify Thanks message.
+2020-07-28 22:07:885 INFO  logs:261 - Scenario completed.
+2020-07-28 22:07:168 INFO  logs:52 - Scenario started.
+2020-07-28 22:07:488 INFO  logs:261 - Scenario completed.
+2020-07-28 22:07:495 INFO  logs:52 - Scenario started.
+2020-07-28 22:07:55 INFO  logs:33 - Chrome browser started.
+2020-07-28 22:07:273 INFO  logs:167 - German create account scnario.
+2020-07-28 22:07:390 INFO  logs:184 - German sign in scenario.
+2020-07-28 22:07:74 INFO  logs:198 - German forgot password scenario.
+2020-07-28 22:07:102 INFO  logs:206 - Verify thanks you message for german scenario.
+2020-07-28 22:07:103 INFO  logs:261 - Scenario completed.
+2020-07-28 22:07:307 INFO  logs:52 - Scenario started.
+2020-07-28 22:07:370 INFO  logs:261 - Scenario completed.
+2020-07-28 22:07:374 INFO  logs:52 - Scenario started.
+2020-07-28 22:07:762 INFO  logs:33 - Chrome browser started.
+2020-07-28 22:07:204 INFO  logs:261 - Scenario completed.
+2020-07-28 22:07:435 INFO  logs:52 - Scenario started.
+2020-07-28 22:07:438 INFO  logs:261 - Scenario completed.

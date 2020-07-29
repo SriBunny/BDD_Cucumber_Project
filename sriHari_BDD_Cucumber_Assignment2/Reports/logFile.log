@@ -1,0 +1,20 @@
+2020-07-28 20:07:978 INFO  logs:77 - Browser got launched.
+2020-07-28 20:07:849 INFO  logs:81 - User navigated to https://www.goibibo.com/
+2020-07-28 20:07:614 INFO  logs:23 - One way trip got selected.
+2020-07-28 20:07:494 INFO  logs:25 - From and to places are entered.
+2020-07-28 20:07:90 INFO  logs:49 - Departure date is entered.
+2020-07-28 20:07:992 INFO  logs:51 - Traveller details are entered.
+2020-07-28 20:07:993 INFO  logs:58 - Search button is clicked.
+2020-07-28 20:07:312 INFO  logs:60 - Searching for cheapest flight.
+2020-07-28 20:07:561 INFO  logs:84 - Book now button is clicked.
+2020-07-28 20:07:340 INFO  logs:101 - The flight details are same as in search page.
+2020-07-28 20:07:224 INFO  logs:77 - Browser got launched.
+2020-07-28 20:07:895 INFO  logs:81 - User navigated to https://www.goibibo.com/
+2020-07-28 20:07:186 INFO  logs:33 - Round trip got selected.
+2020-07-28 20:07:861 INFO  logs:41 - From and to places are entered.
+2020-07-28 20:07:277 INFO  logs:49 - Departure date is entered.
+2020-07-28 20:07:863 INFO  logs:51 - Traveller details are entered.
+2020-07-28 20:07:868 INFO  logs:69 - Search button is clicked.
+2020-07-28 20:07:139 INFO  logs:71 - Searching for cheapest flight.
+2020-07-28 20:07:767 INFO  logs:84 - Book now button is clicked.
+2020-07-28 20:07:654 INFO  logs:93 - The flight details are same as in search page.
